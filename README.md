@@ -18,3 +18,4 @@ https://qiita.com/hatt0519/items/23ef0866f4abacce7296
 
 # TOOD
 [ ]コミット履歴がどうなるか確認したい
+[ ]ローカルで2回コミットしたらどうなるか？？
