@@ -8,3 +8,10 @@
 - 基本的な使い方
 - 差分取り込み
 - コンフリクトの解消
+
+# 参考資料
+1. プルリクまでの流れ（コード改修）
+https://phoeducation.work/entry/20210913/1631487480
+
+2. Git基本的な考え方
+https://qiita.com/hatt0519/items/23ef0866f4abacce7296
