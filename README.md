@@ -15,3 +15,6 @@ https://phoeducation.work/entry/20210913/1631487480
 
 2. Git基本的な考え方
 https://qiita.com/hatt0519/items/23ef0866f4abacce7296
+
+# TOOD
+[ ]コミット履歴がどうなるか確認したい
