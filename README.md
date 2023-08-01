@@ -40,8 +40,3 @@ git branch -d feature/P-003
 
 ### ローカルブランチ作成、作成たブランチに移動
 git checkout -b feature/P-004
-
-- feature/P005
-    - ファイルを2つ作成
-- feature/P-006
-    - Readmeに文言を追加
